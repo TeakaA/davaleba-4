@@ -1,2 +1,17 @@
-.logo img{width:100px;}
-.navigation-li{display:inline-block;}
+.logo img{width:100px;
+	      vertical-align:middle;
+
+}
+.navigation{display:inline-block;
+	        vertical-align:middle;
+	        font-family:BPG Nino Mtavruli;
+}
+.navigation-li{display:inline-block;
+	           margin-left:15px;
+
+}
+ .color{color:red;}
+ .comp{width:1170px;
+ 	   display:block;
+ 	  margin-top:30px;
+ }
