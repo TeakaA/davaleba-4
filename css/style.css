@@ -24,3 +24,28 @@
                background:pink;
 
  	  }
+      .engfont1{font-size:22px;
+      	        margin-top:25px;
+      	        display:inline-block;
+      	        background:pink;
+      	        font-family:'Roboto-Regular';
+ }
+     .engfont2{font-size:22px;
+      	        margin-top:25px;
+      	        margin-left:200px;
+      	        display:inline-block;
+      	        background:pink;
+      	        font-family:'Roboto-Regular';
+ }   
+     .icon      {width:100px;
+     	        vertical-align:top;
+     	        display:inline-block;
+     	        margin-right:200px;
+     	        margin-top:20px;
+
+     	    }
+     .icon1     { width:100px;
+     	          display:inline-block;
+     	          margin-top:20px;
+
+      }
