@@ -96,3 +96,11 @@
      	    font-family:'BPG Ingiri Arial';
      	    margin-top:5px;
      }
+     .map{ display:inline-block;
+           margin-left:300px;
+           vertical-align:top;
+           width:874px;
+           height:466px;
+
+      }
+
