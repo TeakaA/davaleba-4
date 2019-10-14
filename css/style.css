@@ -29,6 +29,7 @@
       	        display:inline-block;
       	        background:pink;
       	        font-family:'Roboto-Regular';
+      	        width:400px;
  }
      .engfont2{font-size:22px;
       	        margin-top:25px;
@@ -101,6 +102,7 @@
            vertical-align:top;
            width:874px;
            height:466px;
+           
 
       }
 
